@@ -1,1 +1,40 @@
 # culturefork-project
+
+> 각 지역의 다양한 문화 행사 및 이벤트 정보를 제공하고, 사용자 간 후기를 공유할 수 있는 문화 종합 커뮤니티 서비스
+
+
+##### 1. 사용기술
+
+* 웹 표준
+  * `HTML5`
+  * `CSS3`
+  * `JavaScript`
+  * `jQuery`
+  * `Bootstrap4`
+
+* DMBS
+  * `MySQL`
+* `Spring Framework`
+* `MyBatis`
+* `jQuery`, `Ajax`, `XML`, `JSON 파싱`
+* `REST 인터페이스` 구현
+
+
+
+##### 2. 프로세스 흐름도
+
+* 전체 흐름도 
+
+![전체 흐름도](https://user-images.githubusercontent.com/51072198/69434003-148d4900-0d80-11ea-9ac5-e73c3c9d5da7.png)
+
+
+
+##### 3.특징
+
+* Rest 구조를 사용, 싱글 페이지로 구현
+
+
+
+##### 4. 프로젝트 PPT
+
+[PPT Link]( https://docs.google.com/presentation/d/1YKKqEB6x2gkDbe1JYjMZxorp-mmPLemaE0p-gkIBSwM/edit?usp=sharing )
