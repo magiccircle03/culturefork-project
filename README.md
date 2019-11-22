@@ -10,7 +10,7 @@
   * `CSS3`
   * `JavaScript`
   * `jQuery`
-  * `Bootstrap4`
+  * `Bootstrap`
 
 * DMBS
   * `MySQL`
