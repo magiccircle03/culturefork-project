@@ -37,8 +37,7 @@
 ##### 3. 특징
 
 * Rest 구조를 사용, 싱글 페이지로 구현  
-
- * [컨트롤러 Link](https://github.com/magiccircle03/culturefork-project/blob/master/Culturefork-review/src/main/java/com/daae/culturefork/review/controller/ReviewController.java)
+  * [컨트롤러 Link](https://github.com/magiccircle03/culturefork-project/blob/master/Culturefork-review/src/main/java/com/daae/culturefork/review/controller/ReviewController.java)
 
 
 ##### 5. 프로젝트 PPT
